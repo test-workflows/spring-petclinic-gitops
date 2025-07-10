@@ -2,5 +2,5 @@ petclinic:
   # This image tag can be automatically updated by invoking the workflow
   # included in this repository 
   image: quay.io/gfarache/spring-petclinic
-  tag: latest 
+  tag: 83dd1bfeb8aa7b42df84b10a2cc422ade9633812
   replicas: 1
